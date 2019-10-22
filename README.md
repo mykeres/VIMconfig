@@ -1,2 +1,2 @@
 # VIMconfig
-**Diferent configuration files 4 VIM**
+**Different configuration files 4 VIM**
